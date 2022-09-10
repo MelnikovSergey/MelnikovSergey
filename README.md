@@ -1,5 +1,5 @@
 Hi, I’m Sergey Melnikov  
-I’m currently learning Erlang
+I am now in setup mode.
 
 <!---
 MelnikovSergey/MelnikovSergey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
