@@ -1,4 +1,4 @@
-Hi, I’m MelnikovSergey  
+Hi, I’m Sergey Melnikov  
 I’m currently learning Erlang
 
 <!---
